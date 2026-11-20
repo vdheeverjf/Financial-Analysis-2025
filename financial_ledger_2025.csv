@@ -1,0 +1,115 @@
+Date,Description,Debit Account,Credit Account,Amount
+2025-01-28,Opening cash,Cash,Opening Equity,500000
+2025-01-28,Opening inventory,Inventory,Opening Equity,800000
+2025-01-28,Opening debtors,Accounts Receivable,Opening Equity,350000
+2025-01-28,Opening equipment,Equipment,Opening Equity,250000
+2025-01-28,Opening creditors,Opening Equity,Accounts Payable,450000
+2025-01-28,Opening loan,Opening Equity,Bank Loan,300000
+2025-01-28,"Sales to Griffiths, Cox and Smith",Accounts Receivable,Sales Revenue,908369
+2025-01-28,Cost of sales,Cost of Sales,Inventory,654025.68
+2025-01-28,Inventory purchases,Inventory,Accounts Payable,654025.68
+2025-01-28,Customer receipts,Cash,Accounts Receivable,908369
+2025-01-28,Supplier payments,Accounts Payable,Cash,654025.68
+2025-01-28,Salaries,Salaries Expense,Cash,65819
+2025-01-28,Rent,Rent Expense,Cash,25000
+2025-01-28,Utilities,Utilities Expense,Cash,10037
+2025-01-28,Other operating expenses,Other Expenses,Cash,14253
+2025-02-28,Sales to Newman Ltd,Accounts Receivable,Sales Revenue,978393
+2025-02-28,Cost of sales,Cost of Sales,Inventory,704442.96
+2025-02-28,Inventory purchases,Inventory,Accounts Payable,704442.96
+2025-02-28,Customer receipts,Cash,Accounts Receivable,978393
+2025-02-28,Supplier payments,Accounts Payable,Cash,704442.96
+2025-02-28,Salaries,Salaries Expense,Cash,72314
+2025-02-28,Rent,Rent Expense,Cash,25000
+2025-02-28,Utilities,Utilities Expense,Cash,7571
+2025-02-28,Other operating expenses,Other Expenses,Cash,18033
+2025-03-28,"Sales to Norman, Hopkins and Oliver",Accounts Receivable,Sales Revenue,903736
+2025-03-28,Cost of sales,Cost of Sales,Inventory,650689.92
+2025-03-28,Inventory purchases,Inventory,Accounts Payable,650689.92
+2025-03-28,Customer receipts,Cash,Accounts Receivable,903736
+2025-03-28,Supplier payments,Accounts Payable,Cash,650689.92
+2025-03-28,Salaries,Salaries Expense,Cash,82870
+2025-03-28,Rent,Rent Expense,Cash,25000
+2025-03-28,Utilities,Utilities Expense,Cash,7356
+2025-03-28,Other operating expenses,Other Expenses,Cash,16837
+2025-04-28,Sales to Green and Sons,Accounts Receivable,Sales Revenue,1071208
+2025-04-28,Cost of sales,Cost of Sales,Inventory,771269.76
+2025-04-28,Inventory purchases,Inventory,Accounts Payable,771269.76
+2025-04-28,Customer receipts,Cash,Accounts Receivable,1071208
+2025-04-28,Supplier payments,Accounts Payable,Cash,771269.76
+2025-04-28,Salaries,Salaries Expense,Cash,66041
+2025-04-28,Rent,Rent Expense,Cash,25000
+2025-04-28,Utilities,Utilities Expense,Cash,7122
+2025-04-28,Other operating expenses,Other Expenses,Cash,12767
+2025-05-28,"Sales to Foster, Moore and Edwards",Accounts Receivable,Sales Revenue,964629
+2025-05-28,Cost of sales,Cost of Sales,Inventory,694532.88
+2025-05-28,Inventory purchases,Inventory,Accounts Payable,694532.88
+2025-05-28,Customer receipts,Cash,Accounts Receivable,964629
+2025-05-28,Supplier payments,Accounts Payable,Cash,694532.88
+2025-05-28,Salaries,Salaries Expense,Cash,72623
+2025-05-28,Rent,Rent Expense,Cash,25000
+2025-05-28,Utilities,Utilities Expense,Cash,9069
+2025-05-28,Other operating expenses,Other Expenses,Cash,16931
+2025-06-28,"Sales to Kaur, Quinn and Wright",Accounts Receivable,Sales Revenue,863912
+2025-06-28,Cost of sales,Cost of Sales,Inventory,622016.64
+2025-06-28,Inventory purchases,Inventory,Accounts Payable,622016.64
+2025-06-28,Customer receipts,Cash,Accounts Receivable,863912
+2025-06-28,Supplier payments,Accounts Payable,Cash,622016.64
+2025-06-28,Salaries,Salaries Expense,Cash,83390
+2025-06-28,Rent,Rent Expense,Cash,25000
+2025-06-28,Utilities,Utilities Expense,Cash,7814
+2025-06-28,Other operating expenses,Other Expenses,Cash,17865
+2025-07-28,Sales to Reed and Sons,Accounts Receivable,Sales Revenue,1135706
+2025-07-28,Cost of sales,Cost of Sales,Inventory,817708.32
+2025-07-28,Inventory purchases,Inventory,Accounts Payable,817708.32
+2025-07-28,Customer receipts,Cash,Accounts Receivable,1135706
+2025-07-28,Supplier payments,Accounts Payable,Cash,817708.32
+2025-07-28,Salaries,Salaries Expense,Cash,78746
+2025-07-28,Rent,Rent Expense,Cash,25000
+2025-07-28,Utilities,Utilities Expense,Cash,7902
+2025-07-28,Other operating expenses,Other Expenses,Cash,15679
+2025-08-28,"Sales to Oliver, White and Stevens",Accounts Receivable,Sales Revenue,995852
+2025-08-28,Cost of sales,Cost of Sales,Inventory,717013.44
+2025-08-28,Inventory purchases,Inventory,Accounts Payable,717013.44
+2025-08-28,Customer receipts,Cash,Accounts Receivable,995852
+2025-08-28,Supplier payments,Accounts Payable,Cash,717013.44
+2025-08-28,Salaries,Salaries Expense,Cash,65212
+2025-08-28,Rent,Rent Expense,Cash,25000
+2025-08-28,Utilities,Utilities Expense,Cash,10108
+2025-08-28,Other operating expenses,Other Expenses,Cash,18601
+2025-09-28,Sales to Warner-Palmer,Accounts Receivable,Sales Revenue,933707
+2025-09-28,Cost of sales,Cost of Sales,Inventory,672269.04
+2025-09-28,Inventory purchases,Inventory,Accounts Payable,672269.04
+2025-09-28,Customer receipts,Cash,Accounts Receivable,933707
+2025-09-28,Supplier payments,Accounts Payable,Cash,672269.04
+2025-09-28,Salaries,Salaries Expense,Cash,78848
+2025-09-28,Rent,Rent Expense,Cash,25000
+2025-09-28,Utilities,Utilities Expense,Cash,8393
+2025-09-28,Other operating expenses,Other Expenses,Cash,14276
+2025-10-28,Sales to Baker-Butler,Accounts Receivable,Sales Revenue,931516
+2025-10-28,Cost of sales,Cost of Sales,Inventory,670691.52
+2025-10-28,Inventory purchases,Inventory,Accounts Payable,670691.52
+2025-10-28,Customer receipts,Cash,Accounts Receivable,931516
+2025-10-28,Supplier payments,Accounts Payable,Cash,670691.52
+2025-10-28,Salaries,Salaries Expense,Cash,72055
+2025-10-28,Rent,Rent Expense,Cash,25000
+2025-10-28,Utilities,Utilities Expense,Cash,10920
+2025-10-28,Other operating expenses,Other Expenses,Cash,18254
+2025-11-28,Sales to Elliott PLC,Accounts Receivable,Sales Revenue,1026472
+2025-11-28,Cost of sales,Cost of Sales,Inventory,739059.84
+2025-11-28,Inventory purchases,Inventory,Accounts Payable,739059.84
+2025-11-28,Customer receipts,Cash,Accounts Receivable,1026472
+2025-11-28,Supplier payments,Accounts Payable,Cash,739059.84
+2025-11-28,Salaries,Salaries Expense,Cash,68349
+2025-11-28,Rent,Rent Expense,Cash,25000
+2025-11-28,Utilities,Utilities Expense,Cash,7379
+2025-11-28,Other operating expenses,Other Expenses,Cash,15112
+2025-12-28,Sales to Simpson Group,Accounts Receivable,Sales Revenue,900707
+2025-12-28,Cost of sales,Cost of Sales,Inventory,648509.04
+2025-12-28,Inventory purchases,Inventory,Accounts Payable,648509.04
+2025-12-28,Customer receipts,Cash,Accounts Receivable,900707
+2025-12-28,Supplier payments,Accounts Payable,Cash,648509.04
+2025-12-28,Salaries,Salaries Expense,Cash,76763
+2025-12-28,Rent,Rent Expense,Cash,25000
+2025-12-28,Utilities,Utilities Expense,Cash,10471
+2025-12-28,Other operating expenses,Other Expenses,Cash,14817
